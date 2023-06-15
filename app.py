@@ -1,6 +1,6 @@
 import tkinter as tk
 import pyqrcode
-from PIL import Image,ImageTk
+import png
 
 
 # Create a tkinter window
