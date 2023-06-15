@@ -73,9 +73,7 @@ References: A list of any external resources or libraries used in the developmen
 
 
 
-## Authors
 
-- [@gaurharsh](https://github.com/gaurharsh)
 
 
 ## Badges
